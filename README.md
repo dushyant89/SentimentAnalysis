@@ -1,4 +1,4 @@
-SentimentAnalysis
+Sentiment Analysis
 =================
 
 This repo contains the java files for sentiment analysis of twitter data, 
